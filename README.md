@@ -53,7 +53,7 @@
 ## 🧠 LeetCode Status
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Way2top?theme=nord&font=Fira%20Code&ext=heatmap&site=cn" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/release-i?theme=nord&font=Fira%20Code&ext=heatmap&site=cn" alt="LeetCode Stats" />
 </div>
 
 <br/>
