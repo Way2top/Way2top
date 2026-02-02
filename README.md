@@ -3,7 +3,6 @@
   
   <h3>💻 Coding for Logic, Building for Intelligence.</h3>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Way2top&theme=onestar&column=7&margin-w=15&no-bg=true" alt="trophy" />
 </div>
 
 ---
@@ -37,14 +36,6 @@
 
 ### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Way2top/Way2top/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Way2top/Way2top/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
@@ -58,6 +49,6 @@
 ---
 
 <div align="center">
-  <p>📫 How to reach me: <b>YourEmail@example.com</b></p>
+  <p>📫 How to reach me: <b>15271554535@163.com</b></p>
   <i>"Let's connect and code!"</i>
 </div>
