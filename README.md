@@ -37,8 +37,11 @@
 
 ### 📊 GitHub Stats & Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Way2top&show_icons=true&title_color=36BCF7&icon_color=36BCF7&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Way2top&layout=compact&langs_count=6&title_color=36BCF7&icon_color=36BCF7&text_color=718096&bg_color=ffffff&hide_border=true" />
+  <img src="github-metrics.svg" alt="Metrics" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Way2top/Way2top/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <div align="center">
