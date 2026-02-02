@@ -44,16 +44,14 @@
 
 <br/>
 
-
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Way2top&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Way2top&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" />
   <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Way2top&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Way2top&theme=transparent&hide_border=true&layout=compact" />
 </div>
+
 
 <br/>
 
