@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Way2top!+👋;Backend+Developer;LLM+%26+Knowledge+Graph+Enthusiast;Python+%26+Go+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Way2top!+👋;Backend+Developer;Python+%26+Go+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,26 +26,33 @@
 <br/>
 
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/-LlamaIndex-FF9900?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+
+## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Way2top&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Way2top's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=release-i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Way2top&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Way2top's Top Langs" />
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=release-i&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 <br/>
