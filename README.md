@@ -49,11 +49,10 @@
 ---
 
 <div align="center">
-  <p>📫 How to reach me: <b>15271554535@163.com</b></p>
-  <i>"Let's connect and code!"</i>
+  <img src="https://github.com/user-attachments/assets/b0fc8ebd-f865-4b9c-85fd-cc59e62891a6" width="2560px">
 </div>
 
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b0fc8ebd-f865-4b9c-85fd-cc59e62891a6" width="300px">
+  <p>📫 How to reach me: <b>15271554535@163.com</b></p>
+  <i>"Let's connect and code!"</i>
 </div>
