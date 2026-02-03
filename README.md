@@ -53,6 +53,6 @@
 </div>
 
 <div align="center">
-  <p>📫 How to reach me: <b>15271554535@163.com</b></p>
+  <p>My Email: <b>15271554535@163.com</b></p>
   <i>"Let's connect and code!"</i>
 </div>
